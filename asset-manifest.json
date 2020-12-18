@@ -1,5 +1,5 @@
 {
-  "main.css": "/wether_search/static/css/main.99a85c86.chunk.css",
+  "main.css": "/wether_search/static/css/main.6478d57a.chunk.css",
   "main.js": "/wether_search/static/js/main.19477276.chunk.js",
   "main.js.map": "/wether_search/static/js/main.19477276.chunk.js.map",
   "runtime~main.js": "/wether_search/static/js/runtime~main.f3a45315.js",
@@ -9,7 +9,7 @@
   "static/js/3.960a51fc.chunk.js": "/wether_search/static/js/3.960a51fc.chunk.js",
   "static/js/3.960a51fc.chunk.js.map": "/wether_search/static/js/3.960a51fc.chunk.js.map",
   "index.html": "/wether_search/index.html",
-  "precache-manifest.45ff3ae1bba9f924ed402aa455499925.js": "/wether_search/precache-manifest.45ff3ae1bba9f924ed402aa455499925.js",
+  "precache-manifest.cf36dda89f7189db074aac36fdc5b521.js": "/wether_search/precache-manifest.cf36dda89f7189db074aac36fdc5b521.js",
   "service-worker.js": "/wether_search/service-worker.js",
-  "static/css/main.99a85c86.chunk.css.map": "/wether_search/static/css/main.99a85c86.chunk.css.map"
+  "static/css/main.6478d57a.chunk.css.map": "/wether_search/static/css/main.6478d57a.chunk.css.map"
 }
