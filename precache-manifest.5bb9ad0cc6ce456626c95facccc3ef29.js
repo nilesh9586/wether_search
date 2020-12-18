@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "c3ee7a1d283190438e81",
-    "url": "/wether_search/static/css/main.6478d57a.chunk.css"
+    "revision": "93478a13b3f76fb707fc",
+    "url": "/wether_search/static/css/main.951a402d.chunk.css"
   },
   {
-    "revision": "c3ee7a1d283190438e81",
+    "revision": "93478a13b3f76fb707fc",
     "url": "/wether_search/static/js/main.19477276.chunk.js"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/wether_search/static/js/3.960a51fc.chunk.js"
   },
   {
-    "revision": "8fafd9fc592231c275792fd1d209ab01",
+    "revision": "4a1fa13121585e129e4f160d5d4d4fad",
     "url": "/wether_search/index.html"
   }
 ];
