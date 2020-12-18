@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/wether_search/static/js/3.960a51fc.chunk.js"
   },
   {
-    "revision": "4a1fa13121585e129e4f160d5d4d4fad",
+    "revision": "3776b393f68560e148b4aaa3f841969e",
     "url": "/wether_search/index.html"
   }
 ];
